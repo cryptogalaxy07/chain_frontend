@@ -54,7 +54,6 @@ class UserInfo extends Component {
               {this.props.user.typeofuser}
             </p>
           </Card.Body>
-          {}
         </Card>
       </Col>
     );
